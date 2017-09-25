@@ -1,3 +1,4 @@
 # hello-wordl
 Testing github
-Day 2wo
+Day two
+Finally done.
